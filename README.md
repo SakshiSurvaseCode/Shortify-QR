@@ -1,15 +1,15 @@
-# Shortify - Simplify Your Links! 🔗✨
+# Shortify - Simplify Your Links! 🔗
 
 Welcome to **Shortify**, a sleek and user-friendly URL shortener application that not only shortens your URLs but also generates QR codes for them. Built using **Python** and **Tkinter**, Shortify combines functionality with simplicity to streamline your link management experience.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔗 **URL Shortening**: Convert long URLs into short, shareable links using the TinyURL service.
-- 📷 **QR Code Generation**: Instantly generate QR codes for any URL to share visually.
-- 📋 **Copy to Clipboard**: Easily copy your shortened link with just one click.
-- 🖥️ **Interactive GUI**: A minimalistic and intuitive graphical user interface designed with Tkinter.
+-  **URL Shortening**: Convert long URLs into short, shareable links using the TinyURL service.
+-  **QR Code Generation**: Instantly generate QR codes for any URL to share visually.
+-  **Copy to Clipboard**: Easily copy your shortened link with just one click.
+-  **Interactive GUI**: A minimalistic and intuitive graphical user interface designed with Tkinter.
 
 ---
 
